@@ -1,0 +1,9 @@
+# Downloaded Statistics Canada data
+statcan_employment_data/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
